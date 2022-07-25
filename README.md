@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PramodSinghRautela
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me 📧-pramodsrautelas@gmail.com
 
