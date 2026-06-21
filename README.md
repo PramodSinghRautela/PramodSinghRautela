@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Pramod%20Singh%20Rautela&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React.js&descAlignY=60"/>
+<p align="center">
+  <img src="./banner.jpeg" width="100%" />
+</p>
 
 # 👋 Hello, I'm Pramod Singh Rautela
 
