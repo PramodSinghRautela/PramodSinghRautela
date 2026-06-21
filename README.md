@@ -1,215 +1,271 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Pramod%20Singh%20Rautela&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20React.js&descAlignY=60"/>
+
+# 👋 Hello, I'm Pramod Singh Rautela
+
+### Full Stack Developer | Java Developer | Spring Boot Enthusiast
+
+Building scalable backend systems, modern web applications, and cloud-ready solutions.
+
 <p align="center">
-  <img src="./banner.jpeg" width="100%" />
+  <a href="(https://www.linkedin.com/in/prom101?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:pramodsrautelas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/PramodSinghRautela">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-<div align="center">
-
-
-# Pramod Singh Rautela
-
-**Full Stack Developer • Java • React.js • Microsoft Fabric**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+Production-Ready+Applications;Java+%7C+React.js+%7C+REST+APIs;Cloud+and+Data+Engineering+Enthusiast;Always+Learning+Always+Shipping" />
+<img src="https://komarev.com/ghpvc/?username=PramodSinghRautela&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 🧑‍💻 Profile Snapshot
-
-| Property | Value |
-|-----------|---------|
-| 👨 Name | Pramod Singh Rautela |
-| 💼 Role | Full Stack Developer |
-| 🏢 Company | Tata Consultancy Services |
-| 📍 Location | Bangalore, India |
-| 🎓 Education | B.Tech CSE |
-| ☁️ Cloud | Azure + Fabric |
-| ❤️ Interests | Full Stack, Cloud, Data Engineering |
-
----
-
-# ⚡ Current Mission
-
-```text
-Level Up Backend Development
-████████░░ 80%
-
-Spring Boot
-██████░░░░ 60%
-
-Microservices
-█████░░░░░ 50%
-
-System Design
-█████░░░░░ 50%
-
-Cloud Engineering
-███████░░░ 70%
-```
-
----
-
-# 🛠 Tech Arsenal
-
-## Languages
-
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-## Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-## Backend
-
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-## Cloud & Tools
-
-![Azure](https://skillicons.dev/icons?i=azure)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-
----
-
-# 🏗 Featured Builds
-
-## 🛒 Shop Sphere
-
-```yaml
-Type: Full Stack E-Commerce Platform
-
-Features:
-  - Product Catalog
-  - Search & Filtering
-  - Wishlist
-  - Cart
-  - Checkout
-
-Tech:
-  - React.js
-  - Redux Toolkit
-  - Java
-  - MongoDB
-  - REST APIs
-```
-
-### Impact
-
-✔ 10+ API Integrations
-
-✔ 15+ Shared Components
-
-✔ 25% Faster Page Loads
-
----
-
-## 🎓 Online Admission Portal
-
-```yaml
-Type: Education Management System
-
-Features:
-  - Student Registration
-  - Application Tracking
-  - Document Management
-  - Workflow Automation
-
-Tech:
-  - Java
-  - MySQL
-```
-
-### Impact
-
-✔ 200+ Applicant Capacity
-
-✔ 40% Manual Effort Reduction
-
-✔ Optimized Database Performance
-
----
-
-# 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PramodSinghRautela&show_icons=true&rank_icon=github"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodSinghRautela&layout=compact"/>
-
-</div>
-
----
-
-# 🏆 Achievement Wall
-
-🥇 DP-700 Fabric Data Engineer Associate
-
-🥇 DP-900 Azure Data Fundamentals
-
-🥇 AI-900 Azure AI Fundamentals
-
-🥇 Cisco Cybersecurity Essentials
-
----
-
-# 🎯 Roadmap
-
-```mermaid
-flowchart LR
-
-A[Java] --> B[Spring Boot]
-
-B --> C[Microservices]
-
-C --> D[Cloud Engineering]
-
-D --> E[System Design]
-
-E --> F[Senior Software Engineer]
-```
-
----
-
-# ☕ Current Status
+# 💫 About Me
 
 ```java
 public class Pramod {
 
-    String focus = "Building Better Software";
+    String role = "Full Stack Developer";
 
-    String currentGoal =
-        "Become a Strong Full Stack Engineer";
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "Microservices",
+        "REST APIs",
+        "MySQL",
+        "MongoDB",
+        "Azure",
+        "AWS"
+    };
 
-    String nextTarget =
-        "Spring Boot + Microservices + Cloud";
+    String currentCompany = "Tata Consultancy Services";
+
+    String passion =
+        "Building scalable applications and solving real-world problems";
+
+}
+```
+
+🚀 Full Stack Developer with experience building enterprise-grade applications.
+
+💻 Strong knowledge of Java, Spring Boot, React.js, REST APIs, SQL, MongoDB, and Cloud Technologies.
+
+☁️ Interested in Backend Engineering, Microservices Architecture, Cloud Computing, and Software Design.
+
+📈 Continuously learning and building production-ready applications.
+
+---
+
+# 🛠️ Tech Stack
+
+## Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,sql" />
+</p>
+
+## Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+## Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+## Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,aws,docker" />
+</p>
+
+## Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,maven" />
+</p>
+
+---
+
+# 💼 Professional Experience
+
+## Tata Consultancy Services (TCS)
+
+### Full Stack Developer
+
+📅 May 2025 - Present
+
+✔ Developed and maintained application features using Java, Spring Boot, and MySQL.
+
+✔ Built and enhanced REST APIs supporting business workflows.
+
+✔ Developed frontend components using React.js.
+
+✔ Optimized SQL queries and application performance.
+
+✔ Participated in Agile development lifecycle.
+
+✔ Worked on bug fixes, production support, and feature enhancements.
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI-Powered Recruitment Portal
+
+### Tech Stack
+
+```text
+React.js | Node.js | Express.js | MongoDB | OpenAI API
+```
+
+### Features
+
+- AI Resume Screening
+- Smart Candidate Ranking
+- Recruiter Dashboard
+- Candidate Management
+- Admin Control Panel
+- Secure Authentication
+- Job Recommendation Engine
+
+---
+
+## 💰 Smart Finance Management System
+
+### Tech Stack
+
+```text
+React.js | Java | Spring Boot | MySQL | Azure
+```
+
+### Features
+
+- Expense Tracking
+- Budget Management
+- Financial Analytics
+- Secure Authentication
+- Role-Based Access Control
+- Cloud Deployment Architecture
+
+---
+
+# 🏆 Certifications
+
+🥇 Microsoft Fabric Data Engineer Associate (DP-700)
+
+🥇 Microsoft Azure Data Fundamentals (DP-900)
+
+🥇 Microsoft Azure AI Fundamentals (AI-900)
+
+🥇 Cisco Data Analytics Essentials
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PramodSinghRautela&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramodSinghRautela &layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PramodSinghRautela&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PramodSinghRautela&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Backend Development:
+  - Spring Boot
+  - Microservices
+  - REST APIs
+
+Frontend Development:
+  - React.js
+  - Responsive UI
+
+Cloud:
+  - Azure
+  - AWS
+
+DevOps:
+  - Docker
+  - CI/CD
+
+Learning:
+  - System Design
+  - Distributed Systems
+```
+
+---
+
+# 🌟 Fun Fact
+
+```text
+while(alive){
+    learn();
+    build();
+    improve();
+    repeat();
 }
 ```
 
 ---
 
-# 📫 Reach Me
-
-📧 pramodsrautelas@gmail.com
-
-💼 LinkedIn: linkedin.com/in/prom101
-
-💻 GitHub: github.com/PramodSinghRautela
-
----
-
 <div align="center">
 
-### 🚀 One Commit Better Than Yesterday
+### ⭐ If you like my work, consider giving a star to my repositories.
+
+### 💻 Building today for a better tomorrow.
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
