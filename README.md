@@ -9,7 +9,7 @@
 Building scalable backend systems, modern web applications, and cloud-ready solutions.
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/prom101?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/in/prom101?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:pramodsrautelas@gmail.com">
